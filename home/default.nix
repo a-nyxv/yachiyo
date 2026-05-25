@@ -5,6 +5,7 @@
     ./git.nix
     ./shell.nix
     ./helix.nix
+    ./fetch.nix
   ];
 
   home = {

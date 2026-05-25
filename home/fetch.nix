@@ -2,7 +2,7 @@
 {
   programs = {
     fastfetch = {
-      enabled = true;
+      enable = true;
       settings = {
         modules = [
           "title"
