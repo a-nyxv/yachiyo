@@ -17,6 +17,7 @@
       "telegram"
       "discord"
       "signal"
+      "vesktop"
 
       "macpass"
       "iina"
