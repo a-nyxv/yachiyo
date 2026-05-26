@@ -20,10 +20,11 @@
 
       "macpass"
       "iina"
+      "qbittorrent"
       "obsidian"
       "zen"
     ];
-    brews = [];
-    taps = [];
+    brews = [ ];
+    taps = [ ];
   };
 }
