@@ -6,6 +6,7 @@
     ./shell.nix
     ./helix.nix
     ./fetch.nix
+    ./pl.nix
   ];
 
   home = {
