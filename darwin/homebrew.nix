@@ -14,6 +14,9 @@
       "ghostty"
       "zed"
 
+      "kicad"
+      "freecad"
+
       "telegram"
       "discord"
       "signal"
